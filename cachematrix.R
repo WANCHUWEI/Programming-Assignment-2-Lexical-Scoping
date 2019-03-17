@@ -24,7 +24,6 @@ makeCacheMatrix <- function(M = matrix()) {
 
 
 ## Write a short comment describing this function
-##The following function calculates the mean of the special "vector" created with the makeCacheMatrix.
 
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
